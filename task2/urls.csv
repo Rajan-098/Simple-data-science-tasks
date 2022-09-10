@@ -1,0 +1,362 @@
+index,url,header,num,num,adress,num
+1, "https://www.google.com/", "fiverr - Google Sear", 2, 0, 13303660009572002, 0
+2, "https://www.google.com/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+3, "https://clickserve.dartsearch.net/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+4, "https://tracker.trafficrash.com/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+5, "https://affnetmed.go2cloud.org/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+6, "https://affnetmed.go2cloud.org/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+7, "https://track.fiverr.com/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+8, "https://www.fiverr.com/", "Fiverr - Freelance S", 1, 0, 13303660027118851, 0
+9, "https://www.fiverr.com/", "Start Selling on Fiv", 2, 0, 13303660055189278, 0
+10, "https://www.fiverr.com/", "", 1, 0, 13303660053661922, 0
+11, "https://accounts.google.com/", "", 1, 0, 13303660053661922, 0
+12, "https://www.fiverr.com/", "", 1, 0, 13303660053661922, 0
+13, "https://www.fiverr.com/", "", 2, 0, 13303661406484536, 0
+14, "https://www.fiverr.com/", "https://www.fiverr.c", 1, 0, 13303660071592863, 0
+15, "https://www.fiverr.com/", "https://www.fiverr.c", 1, 0, 13303660073218227, 0
+16, "https://www.fiverr.com/", "Personal Info", 2, 0, 13303660075263106, 0
+17, "https://www.google.com/", "gdrive - Google Sear", 2, 0, 13303660109556094, 0
+18, "https://accounts.google.com/", "Google Drive", 4, 0, 13303660325851644, 0
+19, "https://accounts.google.com/", "Google Drive", 2, 0, 13303660326259355, 0
+20, "https://accounts.google.com/", "Google Drive", 2, 0, 13303660126043905, 0
+21, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660122935706, 0
+22, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660132687991, 0
+23, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660167502710, 0
+24, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660185216014, 0
+25, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660205055421, 0
+26, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660220295265, 0
+27, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660232137598, 0
+28, "https://myaccount.google.com/", "Security Check-up", 1, 0, 13303660286519530, 0
+29, "https://accounts.google.com/", "Security Check-up", 1, 0, 13303660286519530, 0
+30, "https://myaccount.google.com/", "Security Check-up", 1, 0, 13303660286519530, 0
+31, "https://myaccount.google.com/", "Security Check-up", 1, 0, 13303660286519530, 0
+32, "https://myaccount.google.com/", "Security Check-up", 1, 0, 13303660286519530, 0
+33, "https://myaccount.google.com/", "Security Check-up", 2, 0, 13303660288811024, 0
+34, "https://myaccount.google.com/", "Security Check-up", 1, 0, 13303660289172331, 0
+35, "https://accounts.google.com/", "Google Account", 1, 0, 13303660293200362, 0
+36, "https://accounts.google.com/", "Google Account", 1, 0, 13303660293200362, 0
+37, "https://accounts.google.com/", "Google Account", 1, 0, 13303660293200362, 0
+38, "https://myaccount.google.com/", "Google Account", 1, 0, 13303660293200362, 0
+39, "https://myaccount.google.com/", "Google Account", 1, 0, 13303660293200362, 0
+40, "https://myaccount.google.com/", "Google Account", 2, 0, 13303660295966401, 0
+41, "https://myaccount.google.com/", "Google Account", 2, 0, 13303660301053375, 1
+42, "https://www.google.com/", "gdrive - Google Sear", 2, 0, 13303660321135230, 0
+43, "https://accounts.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+44, "https://accounts.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+45, "https://accounts.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+46, "https://accounts.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+47, "https://myaccount.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+48, "https://myaccount.google.com/", "Google Account", 1, 0, 13303660329264763, 0
+49, "https://myaccount.google.com/", "Google Account", 2, 0, 13303660331391156, 0
+50, "https://myaccount.google.com/", "Personal info", 1, 0, 13303660335977777, 0
+51, "https://www.google.com/", "google drive - Googl", 2, 0, 13303660367091442, 0
+52, "https://www.google.com/", "Personal Cloud Stora", 1, 0, 13303660373837725, 0
+53, "https://accounts.google.com/", "Google Drive", 1, 0, 13303660382733496, 0
+54, "https://drive.google.com/", "Google Drive", 1, 0, 13303660382733496, 0
+55, "https://drive.google.com/", "Google Drive", 2, 0, 13303660384196588, 0
+56, "https://drive.google.com/", "Google Drive", 1, 0, 13303660384288111, 0
+57, "https://drive.google.com/", "My Drive - Google Dr", 1, 0, 13303660385655190, 0
+58, "https://drive.google.com/", "Google Drive", 1, 0, 13303660394215825, 0
+59, "https://drive.google.com/", "Google Drive", 2, 0, 13303660395523997, 0
+60, "https://drive.google.com/", "Google Drive", 1, 0, 13303660395619722, 0
+61, "https://drive.google.com/", "My Drive - Google Dr", 2, 0, 13303660487464740, 0
+62, "https://drive.google.com/", "Photos - Google Driv", 1, 0, 13303660418056650, 0
+63, "https://www.fiverr.com/", "Professional Info", 1, 0, 13303660782545488, 0
+64, "https://www.fiverr.com/", "Linked Accounts", 2, 0, 13303661176332681, 0
+65, "https://www.fiverr.com/", "Log In - Stack Overf", 1, 0, 13303661031470781, 0
+66, "https://stackexchange.com/", "Log In - Stack Overf", 1, 0, 13303661031470781, 0
+67, "https://stackoverflow.com/", "Log In - Stack Overf", 1, 0, 13303661031470781, 0
+68, "https://stackoverflow.com/", "Log In - Stack Overf", 1, 0, 13303661031470781, 0
+69, "https://www.fiverr.com/", "Account Security", 7, 0, 13303661419659519, 0
+70, "https://www.fiverr.com/", "Fiverr / rajan_098__", 3, 0, 13303917163002835, 0
+71, "https://www.fiverr.com/", "Fiverr / rajan_098__", 3, 0, 13303917171672834, 0
+72, "https://www.fiverr.com/", "Gigs", 2, 0, 13303662793928172, 0
+73, "https://www.fiverr.com/", "Start Selling on Fiv", 1, 0, 13303661379039371, 0
+74, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303661603172545, 0
+75, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303661753650035, 0
+76, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303662130229251, 0
+77, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303662259676834, 0
+78, "https://www.google.com/", "python scripting - G", 2, 0, 13303662291415518, 0
+79, "https://www.google.com/", "python scripting - G", 2, 0, 13303662294542998, 0
+80, "https://www.google.com/", "python scripting - G", 1, 0, 13303662312950112, 0
+81, "https://www.google.com/", "python scripting - G", 1, 0, 13303662423202613, 0
+82, "https://www.google.com/", "python scripting - G", 1, 0, 13303662445892724, 0
+83, "https://www.google.com/", "python scripting - G", 1, 0, 13303662453346472, 0
+84, "https://www.google.com/", "python scripting - G", 1, 0, 13303662487994772, 0
+85, "https://www.google.com/", "python scripting - G", 1, 0, 13303662492250815, 0
+86, "https://www.google.com/", "python scripting - G", 1, 0, 13303662520855094, 0
+87, "https://www.google.com/", "click here python sc", 2, 0, 13303662549669994, 0
+88, "https://www.google.com/", "click here python sc", 2, 0, 13303662552991506, 0
+89, "https://www.google.com/", "click here python sc", 1, 0, 13303662596518184, 0
+90, "https://www.google.com/", "click here python sc", 1, 0, 13303662609682213, 0
+91, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303662633642018, 0
+92, "https://www.fiverr.com/", "Gigs", 5, 0, 13303662943547876, 0
+93, "https://www.fiverr.com/", "Gigs", 1, 0, 13303662821665951, 0
+94, "https://www.fiverr.com/", "", 1, 0, 13303662829675187, 0
+95, "https://www.fiverr.com/", "", 1, 0, 13303662829675187, 0
+96, "https://www.fiverr.com/", "rajan_098__ | | Five", 3, 0, 13303917144677960, 0
+97, "https://www.fiverr.com/", "rajan_098__ | | Five", 4, 0, 13303917144677960, 0
+98, "https://www.fiverr.com/", "rajan_098__ | | Five", 6, 0, 13303917144677960, 0
+99, "https://tests.fiverr.com/", "Fiverr - Freelance S", 1, 0, 13303662910404314, 0
+100, "https://www.fiverr.com/", "Complete your python", 4, 0, 13303664185758446, 0
+101, "https://www.fiverr.com/", "Fiverr - Freelance S", 3, 0, 13303663974063225, 0
+102, "https://www.fiverr.com/", "Create or customize ", 1, 0, 13303663346993867, 0
+103, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663381627915, 0
+104, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663434032802, 0
+105, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663454787325, 0
+106, "https://www.fiverr.com/", "Fiverr / Search Resu", 2, 0, 13303663529302826, 0
+107, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663496355288, 0
+108, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663540486596, 0
+109, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663558130473, 0
+110, "https://www.fiverr.com/", "Seller Dashboard", 6, 0, 13303917118521706, 0
+111, "https://www.fiverr.com/", "Fiverr / Inbox", 1, 0, 13303663691532108, 0
+112, "https://www.google.com/", "how to cancer my una", 2, 0, 13303663755407192, 0
+113, "https://www.google.com/", "how to cancel my una", 3, 0, 13303663860780486, 0
+114, "https://community.fiverr.com/", "The "Unavailable" fe", 1, 0, 13303663763423374, 0
+115, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663955704427, 0
+116, "https://www.fiverr.com/", "Fiverr / Search Resu", 1, 0, 13303663965493340, 0
+117, "https://www.google.com/", "sembrush - Google Se", 2, 0, 13303736341150150, 0
+118, "http://www.semrush.com/", "Semrush - Online Mar", 1, 0, 13303736348975716, 0
+119, "https://www.semrush.com/", "SEMrush SEO Toolkit:", 5, 0, 13303736858430844, 0
+120, "https://www.semrush.com/", "Log in – Semrush", 2, 0, 13303736788543530, 0
+121, "https://www.google.com/", "what is sign in and ", 2, 0, 13303736387727229, 0
+122, "https://www.semrush.com/", "Sign up – Semrush", 2, 0, 13303736786100964, 0
+123, "https://accounts.google.com/", "Sign in - Google Acc", 2, 0, 13303736474400500, 0
+124, "https://accounts.google.com/", "Sign in - Google Acc", 1, 0, 13303736475031172, 0
+125, "https://accounts.google.com/", "https://accounts.goo", 2, 0, 13303736480558714, 0
+126, "https://www.semrush.com/", "Let’s customize your", 2, 0, 13303736784320083, 0
+127, "https://www.semrush.com/", "Choose your trial pl", 2, 0, 13303736776051659, 0
+128, "https://www.semrush.com/", "SEMrush SEO Toolkit:", 7, 0, 13303736972693364, 0
+129, "https://app.impact.com/", "Semrush", 2, 0, 13303736766807528, 0
+130, "http://app.impact.com/", "Semrush - Semrush", 1, 0, 13303736555720110, 1
+131, "https://app.impact.com/", "Semrush - Semrush", 1, 0, 13303736555720110, 1
+132, "https://app.impact.com/", "Semrush - Semrush", 1, 0, 13303736555720110, 1
+133, "https://app.impact.com/", "Semrush - Semrush", 3, 0, 13303736565914433, 0
+134, "https://app.impact.com/", "Impact - Security", 1, 0, 13303736555937895, 0
+135, "https://app.impact.com/", "Impact - Security", 1, 0, 13303736564763453, 0
+136, "https://www.google.com/", "how to check a traff", 3, 0, 13303736698296853, 0
+137, "https://www.similarweb.com/", "Website Traffic - Ch", 1, 0, 13303736674131716, 0
+138, "https://www.wpbeginner.com/", "How to Check Website", 2, 0, 13303736759753543, 0
+139, "https://www.wpbeginner.com/", "How to Do Keyword Re", 1, 0, 13303736750915899, 0
+140, "https://www.google.com/", "semrush - Google Sea", 2, 0, 13303736821838437, 0
+141, "https://www.googleadservices.com/", "Grow your business a", 1, 0, 13303736824795612, 0
+142, "https://www.semrush.com/", "Grow your business a", 1, 0, 13303736824795612, 0
+143, "https://www.semrush.com/", "Choose your trial pl", 1, 0, 13303736840969684, 0
+144, "https://www.semrush.com/", "Choose your trial pl", 2, 0, 13303736969870671, 0
+145, "https://www.semrush.com/", "Domain\xa0Overview | Se", 1, 0, 13303736873322100, 0
+146, "https://www.semrush.com/", "youtube.com: Domain ", 2, 0, 13303736975250486, 0
+147, "https://www.semrush.com/", "Domain\xa0Overview | Se", 1, 0, 13303737096773817, 0
+148, "https://www.semrush.com/", "xhamster.co: Domain ", 1, 0, 13303737099938666, 0
+149, "https://www.semrush.com/", "fiverr.com: Domain O", 1, 0, 13303737196859958, 0
+150, "https://www.semrush.com/", "Domain\xa0Overview | Se", 1, 0, 13303737287545455, 0
+151, "https://www.semrush.com/", "Domain Overview: Get", 1, 0, 13303737289828421, 0
+152, "https://www.semrush.com/", "geekforgeeks.com: Do", 1, 0, 13303737333311191, 0
+153, "https://www.semrush.com/", "geekforgeeks.com: Ba", 1, 0, 13303737386585522, 0
+154, "https://www.semrush.com/", "geekforgeeks.com: An", 1, 0, 13303737416554412, 0
+155, "https://www.semrush.com/", "Subscribe | Semrush", 1, 0, 13303737430381595, 0
+156, "https://www.semrush.com/", "geekforgeeks.com: An", 1, 0, 13303737434935117, 0
+157, "https://www.google.com/", "how to affiliate in ", 2, 0, 13303737457764319, 0
+158, "https://www.google.com/", "how to become an aff", 2, 0, 13303737487097896, 0
+159, "https://www.googleadservices.com/", "Shopify Affiliate Ma", 1, 0, 13303737493655245, 0
+160, "https://ad.doubleclick.net/", "Shopify Affiliate Ma", 1, 0, 13303737493655245, 0
+161, "https://www.shopify.in/", "Shopify Affiliate Ma", 1, 0, 13303737493655245, 0
+162, "https://app.impact.com/", "Shopify Inc. - Shopi", 1, 0, 13303737502668305, 0
+163, "https://app.impact.com/", "Shopify Inc. - Shopi", 1, 0, 13303737502668305, 0
+164, "https://app.impact.com/", "Shopify Inc. - Shopi", 1, 0, 13303737502668305, 0
+165, "https://app.impact.com/", "Affiliate Program Te", 1, 0, 13303737542964584, 0
+166, "https://www.google.com/", "how affiliate market", 2, 0, 13303737648979177, 0
+167, "https://www.google.com/", "niche - Google Searc", 2, 0, 13303737695626725, 0
+168, "https://www.google.com/", "seo - Google Search", 2, 0, 13303737740520949, 0
+169, "https://www.google.com/", "which kind of online", 3, 0, 13303737824451932, 0
+170, "https://www.cheggindia.com/", "Earn upto 1000 INR p", 1, 0, 13303737811981499, 0
+171, "https://www.google.com/", "which is best online", 2, 0, 13303737855240323, 0
+172, "https://www.google.com/", "flex jobs - Google S", 2, 0, 13303737872683769, 0
+173, "https://www.flexjobs.com/", "FlexJobs: Best Remot", 1, 0, 13303737874057195, 0
+174, "https://ebizfacts.com/", "15 Typing Jobs From ", 1, 0, 13303737892821987, 0
+175, "https://www.google.com/", "how flexjobs work - ", 3, 0, 13303738031619320, 0
+176, "https://www.google.com/", "what should i do to ", 3, 0, 13303738030759372, 0
+177, "https://www.cheggindia.com/", "Start Working Online", 1, 0, 13303738021418231, 0
+178, "https://ebizfacts.com/", "Telecommuting Typing", 1, 0, 13303738048529538, 0
+179, "https://track.flexlinkspro.com/", "Telecommuting Typing", 1, 0, 13303738048529538, 0
+180, "https://track.flexlinks.com/", "Telecommuting Typing", 1, 0, 13303738048529538, 0
+181, "https://www.virtualvocations.com/", "Telecommuting Typing", 1, 0, 13303738048529538, 0
+182, "https://www.google.com/", "english to tamila - ", 1, 0, 13303740592406473, 0
+183, "https://www.google.com/", "what is buyer reques", 2, 0, 13303740911708675, 0
+184, "https://www.google.com/", "per hour - Google Se", 2, 0, 13303741180498865, 0
+185, "https://www.peopleperhour.com/", "PeoplePerHour.com - ", 1, 0, 13303741192553912, 0
+186, "https://www.peopleperhour.com/", "Freelance Services &", 1, 0, 13303741555145704, 0
+187, "https://www.google.com/", "hungama new movie - ", 1, 0, 13303890195186156, 0
+188, "https://www.hungama.com/", "New Hindi Movies (20", 1, 0, 13303890198051590, 0
+189, "https://www.google.com/", "new movies today - G", 2, 0, 13303890216716231, 0
+190, "https://www.bollywoodhungama.com/", "New Upcoming Hindi M", 1, 0, 13303890218656647, 0
+191, "https://www.google.com/", "wordpress - Google S", 2, 0, 13303893759679240, 0
+192, "https://www.googleadservices.com/", "Create your stunning", 1, 0, 13303893762072045, 0
+193, "https://wordpress.com/", "Create your stunning", 1, 0, 13303893762072045, 0
+194, "https://wordpress.com/", "Create your stunning", 2, 0, 13303893765309036, 0
+195, "https://wordpress.com/", "WordPress.com", 2, 0, 13303893773410272, 0
+196, "https://wordpress.com/", "WordPress.com", 1, 0, 13303893773747225, 0
+197, "https://wordpress.com/", "Create a site — Word", 1, 0, 13303893773831159, 0
+198, "https://accounts.google.com/", "Sign in - Google Acc", 2, 0, 13303893785494742, 0
+199, "https://accounts.google.com/", "Sign in - Google Acc", 1, 0, 13303893786642032, 0
+200, "https://accounts.google.com/", "https://accounts.goo", 2, 0, 13303893792675307, 0
+201, "https://wordpress.com/", "Create a site — Word", 1, 0, 13303893795310084, 0
+202, "https://wordpress.com/", "Create a site — Word", 1, 0, 13303893863173748, 0
+203, "https://wordpress.com/", "Create a site — Word", 1, 0, 13303893952974018, 0
+204, "https://wordpress.com/", "Create a site — Word", 1, 0, 13303893963953331, 0
+205, "https://wordpress.com/", "Checkout — WordPress", 1, 0, 13303893982709567, 0
+206, "https://www.google.com/", "fiverr - Google Sear", 1, 0, 13303917080294331, 0
+207, "https://www.google.com/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+208, "https://clickserve.dartsearch.net/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+209, "https://tracker.trafficrash.com/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+210, "https://affnetmed.go2cloud.org/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+211, "https://affnetmed.go2cloud.org/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+212, "https://track.fiverr.com/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+213, "https://www.fiverr.com/", "Fiverr - Freelance S", 1, 0, 13303917092589412, 0
+214, "https://www.fiverr.com/", "Fiverr / rajan_098__", 1, 0, 13303917515591236, 0
+215, "https://www.google.com/", "yt - Google Search", 2, 0, 13304004934818998, 0
+216, "https://www.youtube.com/", "YouTube", 2, 0, 13304014966667008, 0
+217, "https://www.google.com/", "top paying it jobs -", 2, 0, 13304005008328266, 0
+218, "https://www.google.com/", "highest paid it jobs", 2, 0, 13304005052290372, 0
+219, "https://www.google.com/", "highest paid it jobs", 2, 0, 13304005067577667, 0
+220, "https://www.google.com/", "which language is us", 2, 0, 13304005190560133, 0
+221, "https://www.simplilearn.com/", "Top Data Science Pro", 1, 0, 13304005211283039, 0
+222, "https://www.google.com/", "data science modules", 2, 0, 13304005278387953, 0
+223, "https://www.google.com/", "what is data science", 2, 0, 13304005389815548, 0
+224, "https://www.google.com/", "what is data science", 2, 0, 13304005443701738, 0
+225, "https://www.google.com/", "what is data science", 1, 0, 13304005445984767, 0
+226, "https://www.google.com/", "from where should i ", 2, 0, 13304005483992954, 0
+227, "https://www.google.com/", "data science simle t", 4, 0, 13304005587898883, 0
+228, "https://www.youtube.com/", "Solving real world d", 1, 0, 13304005551663022, 0
+229, "https://www.google.com/", "data science simle t", 2, 0, 13304005578376149, 0
+230, "https://www.google.com/", "data science using p", 3, 0, 13304005676906400, 0
+231, "https://www.pdfdrive.com/", "Data Science with Py", 2, 0, 13304005671074815, 0
+232, "https://www.pdfdrive.com/", "Data Science with Py", 1, 0, 13304005622049047, 0
+233, "https://rovernments.xyz/", "Coupons Cashback O", 1, 0, 13304005623641259, 0
+234, "https://www.getsmartyapp.com/", "Coupons Cashback O", 1, 0, 13304005623641259, 0
+235, "https://www.getsmartyapp.com/", "Coupons Cashback O", 1, 0, 13304005623641259, 0
+236, "https://www.joinsmarty.com/", "Chrome Web Store - E", 1, 0, 13304005641430003, 0
+237, "https://chrome.google.com/", "Chrome Web Store - E", 1, 0, 13304005642428368, 0
+238, "https://chrome.google.com/", "Smarty - Chrome Web ", 1, 0, 13304005645599870, 0
+239, "https://www.joinsmarty.com/", "Coupons, Cashback, O", 1, 0, 13304005660446857, 0
+240, "https://www.researchgate.net/", "(PDF) Introduction t", 2, 0, 13304005706626080, 0
+241, "https://www.researchgate.net/", "ResearchGate", 1, 0, 13304005697827942, 0
+242, "https://www.researchgate.net/", "Download citation of", 1, 0, 13304005709658003, 0
+243, "https://www.google.com/", "where can i get pyth", 2, 0, 13304006043938753, 0
+244, "https://www.geeksforgeeks.org/", "Schedule a Python Sc", 1, 0, 13304006047015084, 0
+245, "https://www.google.com/", "top 100 python autom", 2, 0, 13304006096448962, 0
+246, "https://medium.com/", "60 Python Projects w", 1, 0, 13304006101328337, 0
+247, "https://thecleverprogrammer.com/", "Acronyms Using Pytho", 1, 0, 13304006191423124, 0
+248, "https://thecleverprogrammer.com/", "Alarm Clock with Pyt", 1, 0, 13304006586640169, 0
+249, "https://thecleverprogrammer.com/", "Email Slicer with Py", 1, 0, 13304007040874475, 0
+250, "https://www.google.com/", "what is email slicin", 2, 0, 13304007060524590, 0
+251, "https://www.google.com/", "what is email slicin", 1, 0, 13304011965356943, 0
+252, "https://www.google.com/", "How to build an Emai", 1, 0, 13304011996001842, 0
+253, "https://dev.to/", "How to build an Emai", 1, 0, 13304011996001842, 0
+254, "https://thecleverprogrammer.com/", "Story Generator with", 2, 1, 13304012361218754, 0
+255, "https://www.google.com/", "story generator with", 2, 0, 13304012377762196, 0
+256, "https://www.geeksforgeeks.org/", "How to build a Rando", 1, 0, 13304012379447839, 0
+257, "https://thecleverprogrammer.com/", "Rock Paper and Sciss", 1, 0, 13304012546404898, 0
+258, "https://www.google.com/", "what is stimulation ", 2, 0, 13304013442604485, 0
+259, "https://thecleverprogrammer.com/", "Dice Roll Simulator ", 1, 0, 13304013458161731, 0
+260, "https://thecleverprogrammer.com/", "QR Codes with Python", 2, 0, 13304013543271941, 0
+261, "https://www.youtube.com/", "Aman Kharwal - YouTu", 1, 0, 13304013534188863, 0
+262, "https://thecleverprogrammer.com/", "Create a Quiz Game w", 1, 0, 13304013606386542, 0
+263, "https://thecleverprogrammer.com/", "BMI Calculator with ", 1, 0, 13304013639702368, 0
+264, "https://thecleverprogrammer.com/", "Multiple Inputs with", 1, 0, 13304013673405370, 0
+265, "https://thecleverprogrammer.com/", "Digital Clock with P", 1, 0, 13304013714055863, 0
+266, "https://thecleverprogrammer.com/", "Desktop Notification", 1, 0, 13304013868737919, 0
+267, "https://thecleverprogrammer.com/", "Use Phone Camera wit", 1, 0, 13304014270753094, 0
+268, "https://thecleverprogrammer.com/", "Music Player GUI wit", 1, 0, 13304014358748810, 0
+269, "https://thecleverprogrammer.com/", "Game of Life with Py", 1, 0, 13304014581557745, 0
+270, "https://thecleverprogrammer.com/", "Extract Text From Vi", 2, 0, 13304015041862329, 0
+271, "https://www.youtube.com/", "Krithi Shetty  Danc", 1, 0, 13304014966691363, 0
+272, "https://www.youtube.com/", "Jo Mujhse Takrayega ", 1, 0, 13304015018050485, 0
+273, "https://www.youtube.com/", "STOP ANIMAL TESTING ", 1, 0, 13304015019246911, 0
+274, "https://www.youtube.com/", " New Trending Reels", 1, 0, 13304015021108452, 0
+275, "https://support.google.com/", "Remove unwanted ads,", 1, 0, 13304015033205651, 0
+276, "https://support.google.com/", "Remove unwanted ads,", 1, 0, 13304015033205651, 0
+277, "https://support.google.com/", "Remove unwanted ads,", 1, 0, 13304015033205651, 0
+278, "https://support.google.com/", "Remove unwanted ads,", 1, 0, 13304015033205651, 0
+279, "https://thecleverprogrammer.com/", "Create a Game with P", 1, 0, 13304015311645840, 0
+280, "https://thecleverprogrammer.com/", "Spelling Correction ", 2, 0, 13304015728629585, 0
+281, "https://thecleverprogrammer.com/", "Turtle Graphics with", 2, 0, 13304015952583899, 0
+282, "https://thecleverprogrammer.com/", "Monty Hall Problem w", 1, 0, 13304016078366062, 0
+283, "https://thecleverprogrammer.com/", "Tic Tac Toe GUI with", 1, 0, 13304016112495897, 0
+284, "https://www.google.com/", "Google", 2, 0, 13304081779568913, 0
+285, "https://www.google.com/", "download mediapipe p", 3, 0, 13304082673731065, 0
+286, "https://google.github.io/", "MediaPipe in Python ", 5, 0, 13304083092568899, 0
+287, "https://www.google.com/", "download mediapipe p", 7, 0, 13304082788190270, 0
+288, "https://google.github.io/", "Installation - media", 3, 0, 13304082932574702, 0
+289, "https://google.github.io/", "MediaPipe Python Fra", 1, 0, 13304082698920504, 0
+290, "https://github.com/", "GitHub - PINTO0309/m", 3, 0, 13304082740110073, 0
+291, "https://stackoverflow.com/", "python - How to inst", 2, 0, 13304082770074419, 0
+292, "https://stackoverflow.com/", "Newest "mediapipe" Q", 1, 0, 13304082765641193, 0
+293, "https://www.codegrepper.com/", "download mediapipe p", 1, 0, 13304082779389342, 0
+294, "https://www.google.com/", "where to manually in", 4, 0, 13304082995872286, 0
+295, "https://www.activestate.com/", "How to Manually Inst", 1, 0, 13304082812532516, 0
+296, "https://www.geeksforgeeks.org/", "How to Manually Inst", 1, 0, 13304082847164029, 0
+297, "https://www.google.com/", "github mediapipe mod", 2, 0, 13304082892946965, 0
+298, "https://www.google.com/", "github mediapipe mod", 2, 0, 13304082908677094, 0
+299, "https://www.google.com/", "github mediapipe mod", 2, 0, 13304082930272123, 0
+300, "https://google.github.io/", "Installation - media", 1, 0, 13304082937402181, 0
+301, "https://docs.python.org/", "Installing Python Mo", 1, 0, 13304082985423158, 0
+302, "https://www.google.com/", "Package manager for ", 2, 0, 13304083030414298, 0
+303, "https://packaging.python.org/", "Installing Packages ", 1, 0, 13304083038286734, 0
+304, "https://packaging.python.org/", "Installing Packages ", 1, 0, 13304083038286734, 0
+305, "https://packaging.python.org/", "Installing Packages ", 1, 0, 13304083038286734, 0
+306, "https://packaging.python.org/", "Installing Packages ", 1, 0, 13304083038286734, 0
+307, "https://packaging.python.org/", "Search — Python Pack", 1, 0, 13304083051655516, 0
+308, "https://www.google.com/", "download mediapipe p", 4, 0, 13304083096256781, 0
+309, "https://www.google.com/", "download ms excel fo", 1, 0, 13304159964184234, 0
+310, "https://www.microsoft.com/", "Download Excel - Buy", 2, 0, 13304160412248044, 0
+311, "https://www.microsoft.com/", "Microsoft 365 Busine", 1, 0, 13304160403952917, 0
+312, "https://www.microsoft.com/", "Compare All Microsof", 1, 0, 13304160284174828, 0
+313, "https://www.microsoft.com/", "Compare All Microsof", 1, 0, 13304160284174828, 0
+314, "http://www.microsoft.com/", "Compare All Microsof", 1, 0, 13304160291394560, 0
+315, "https://www.microsoft.com/", "Compare All Microsof", 1, 0, 13304160291394560, 0
+316, "https://go.microsoft.com/", "Working...", 1, 0, 13304160325931412, 0
+317, "https://signup.microsoft.com/", "Working...", 1, 0, 13304160325931412, 0
+318, "https://signup.microsoft.com/", "Working...", 1, 0, 13304160325931412, 0
+319, "https://login.microsoftonline.com/", "Working...", 1, 0, 13304160325931412, 0
+320, "https://login.microsoftonline.com/", "Working...", 1, 0, 13304160326540351, 0
+321, "https://signup.microsoft.com/", "Microsoft", 1, 0, 13304160327137087, 0
+322, "http://gmail.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+323, "https://gmail.com/", "Inbox (22) - rajanof", 1, 1, 13304160457688025, 0
+324, "https://www.google.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+325, "https://mail.google.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+326, "https://mail.google.com/", "Inbox (22) - rajanof", 2, 0, 13304160457688025, 0
+327, "https://accounts.google.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+328, "https://mail.google.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+329, "https://mail.google.com/", "Inbox (22) - rajanof", 1, 0, 13304160457688025, 0
+330, "https://mail.google.com/", "Inbox (22) - rajanof", 2, 0, 13304160502991826, 0
+331, "https://mail.google.com/", "Spam - rajanofficial", 1, 0, 13304160499141507, 0
+332, "https://mail.google.com/", "Search results - raj", 2, 0, 13304160519264609, 0
+333, "https://mail.google.com/", "It"s ready: Download", 2, 0, 13304160526536503, 0
+334, "https://www.google.com/", "Download the Microso", 1, 0, 13304160537517860, 0
+335, "https://click.email.office.com/", "Download the Microso", 1, 0, 13304160537517860, 0
+336, "https://go.microsoft.com/", "Download the Microso", 1, 0, 13304160537517860, 0
+337, "https://www.microsoft.com/", "Download the Microso", 1, 0, 13304160537517860, 0
+338, "https://www.microsoft.com/", "Download the Microso", 1, 0, 13304160537517860, 0
+339, "https://www.google.com/", "microsoft free versi", 2, 0, 13304160568502489, 0
+340, "https://www.microsoft.com/", "Software Download", 2, 0, 13304160612654211, 0
+341, "https://www.microsoft.com/", "Download Windows 10", 1, 0, 13304160589844674, 0
+342, "https://www.google.com/", "excel for free windo", 2, 0, 13304160636913510, 0
+343, "https://www.google.com/", "download microsoft e", 2, 0, 13304160673096087, 0
+344, "https://en.softonic.com/", "Download Microsoft E", 1, 0, 13304160679337702, 0
+345, "https://en.softonic.com/", "Download Microsoft E", 1, 0, 13304160679337702, 0
+346, "https://microsoft-excel.en.softonic.com/", "Download Microsoft E", 1, 0, 13304160685639629, 0
+347, "https://microsoft-excel.en.softonic.com/", "Download Microsoft E", 1, 0, 13304160685639629, 0
+348, "https://en.softonic.com/", "Download Microsoft E", 1, 0, 13304160773310560, 0
+349, "https://en.softonic.com/", "Download Microsoft E", 1, 0, 13304160773310560, 0
+350, "https://en.softonic.com/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+351, "https://en.softonic.com/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+352, "https://click.linksynergy.com/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+353, "https://microsoft.msafflnk.net/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+354, "https://www.ojrq.net/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+355, "https://microsoft.msafflnk.net/", "Compare All Microsof", 1, 0, 13304160779305086, 0
+356, "https://www.microsoft.com/", "Compare All Microsof", 3, 0, 13304160893157045, 0
+357, "https://www.microsoft.com/", "Compare All Microsof", 1, 0, 13304160893172607, 0
+358, "https://en.softonic.com/", " You Download is Re", 1, 0, 13304160925333304, 0
+359, "https://www.googleadservices.com/", "Get a Bird"s Eye Vie", 1, 0, 13304160930180772, 0
+360, "https://ad.doubleclick.net/", "Get a Bird"s Eye Vie", 1, 0, 13304160930180772, 0
+361, "https://www.semrush.com/", "Get a Bird"s Eye Vie", 1, 0, 13304160930180772, 0
